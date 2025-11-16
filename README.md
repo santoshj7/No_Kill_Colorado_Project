@@ -60,7 +60,7 @@ The depth of the multi-year analysis and resulting dashboard were designed to em
 * **Provide** clear, data-driven evidence to strategically support advocacy for the programs and services necessary to achieve a No Kill state.
 ## Acknowledgements
 
-I am immensely grateful to **No Kill Colorado** and the **Data Change Makers** platform for providing this profoundly meaningful learning opportunity and the space to apply technical skills toward systemic change. Having my dashboard selected among the top 5 visualizations to be showcased live at the organization's event was a genuine honor and a validating moment in my data journey.
+I am immensely grateful to **No Kill Colorado** and the **Data Change Makers** platform for providing this profoundly meaningful learning opportunity and the space to apply technical skills toward systemic change. Having my dashboard selected among the **top 5 visualizations** to be showcased live at the organization's event was a genuine honor and a validating moment in my data journey.
 
 A sincere thank you to all participants and the organizers for the certificate of appreciation and for fostering a collaborative environment. Feedback and connections are always welcome.
 
