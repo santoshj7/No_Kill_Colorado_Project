@@ -10,8 +10,8 @@ The primary objective of this analysis was to identify and track complex, longit
 ## Dataset Description:
 
 The foundation of this analysis rests upon highly regulated and publicly available government statistics, augmented by internal data systems:
-* **Core Data Source:** The core shelter statistics data is published for public consumption by the **State of Colorado Department of Agriculture** from the **Pet Animal Care Facilities Act (PACFA)** Division. This data is collected through a structured process followed by licensed teams and volunteers.
-* **Data Augmentation:** We hoped to enhance the PACFA data with the addition of publicly available information, such as licensee details, mapped from sources like the official *Colorado Active PACFA Facilities* database.
+* **Core Data Source:** The core shelter statistics data is published for public consumption by the **State of Colorado Department of Agriculture** from the [**Pet Animal Care Facilities Act (PACFA)**](https://ag.colorado.gov/animal-welfare/pet-animal-care-facilities-act-pacfa/animal-shelter-and-rescue-individual-statistics) Division. This data is collected through a structured process followed by licensed teams and volunteers.
+* **Data Augmentation:** We hoped to enhance the PACFA data with the addition of publicly available information, such as licensee details, mapped from sources like the official [*Colorado Active PACFA Facilities*](https://ag.colorado.gov/animal-welfare/pet-animal-care-facilities-act-pacfa/active-pacfa-facilities) database.
 
 The consolidated dataset spans 2015–2024 and tracks the complete operational lifecycle of animals within the system, focusing on:
 * **Intake Data:** The source of animals entering the system (e.g., Owner Surrender, Stray, Seized, Transfer In).
